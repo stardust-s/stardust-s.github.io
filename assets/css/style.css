@@ -11,7 +11,7 @@
   /* background-size: cover;  */
   margin: -31px; 
   margin-left:-7px;
-  border: 6px solid rgba(0, 77, 64, 0.4); 
+  border: 6px solid #95d7e866; 
   border-radius: 50% !important;
 }
 
@@ -68,8 +68,7 @@
 }
 
 .linkedin:hover {
-  background-color: #0077b5;
-}
+  background-color: #0077b5; }
 
 .angellist:hover {
   background-color: grey;
@@ -116,7 +115,7 @@
 }
 
 .contactme:hover{
-  color: #00796b;
+  color: #4ebdd9;
   background-color: white;
 }
 /* main body */
@@ -140,7 +139,7 @@ body {
 } */
 
 a {
-  color: #004d40;
+  color: #2f7384;
 }
 
 /* main blockqoute */
@@ -155,8 +154,8 @@ a {
 } */
 
 blockquote {
-  border-left: 5px solid #795548;
-  color: #795548;
+  border-left: 5px solid #2f7384;
+  color: #2f7384;
   font-size: 125%;
   font-weight: 400;
   margin: 20px 0;
@@ -237,7 +236,7 @@ ul.side-nav li {
 
 ul.side-nav.fixed a {
   box-sizing: content-box;
-  color: rgb(16, 202, 56);
+  color: #60c4dd;
   display: block;
   line-height: 100%;
   padding: 10px 0 12px;
@@ -320,7 +319,7 @@ h3 {
 } */
 
 #intro.section {
-  background: #a7ffeb repeat;
+  background: #60c4dd repeat;
   position: relative;
 }
 
@@ -351,7 +350,7 @@ h3 {
   border-bottom: 5px solid #24305e;
 }
 
-#intro.section .teal {
+#intro.section .skyblue {
   padding: 0 10px;
 }
 
@@ -473,7 +472,7 @@ a.hoverline {
 } */
 
 a.hoverline:hover {
-  border-bottom: 3px solid #004d40 !important;
+  border-bottom: 3px solid #2f7182 !important;
 }
 
 #skills .card.large {
@@ -546,24 +545,24 @@ small {
   color: #666 !important;
 }
 
-/* main .teal-text */
+/* main .skyblue-text */
 
-.teal-text {
-  color: #008073 !important;
+.skyblue-text {
+  color: #3e97ae !important;
 }
 
-/* .teal-text {
+/* .skyblue-text {
   color: #0b5e86 !important;
 } */
 
-/* .teal */
+/* .skyblue */
 
-.teal {
-  background-color: #008073 !important;
+.skyblue {
+  background-color: #46aac3 !important;
 }
 
-/* .teal {
-  background-color: #00695c !important;
+/* .skyblue {
+  background-color: #46aac3 !important;
 } */
 
 @media (min-width: 1200px) {
@@ -602,7 +601,7 @@ small {
     position: absolute;
   }
   nav a.button-collapse, nav a.button-collapse i {
-    color: #009688;
+    color: #60c4dd;
     height: 56px;
     line-height: 56px;
   }
