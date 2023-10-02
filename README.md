@@ -23,3 +23,14 @@ Website after replacing the information
 ![Image of the repo](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/3.png "")
 
 The repo at the end of activity 2
+
+## Activity 3
+
+
+![website](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/5.png "")
+
+Website after replacing the color theme
+
+![Image of the repo](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/5.png "")
+
+The repo at the end of activity 3
