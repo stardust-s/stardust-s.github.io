@@ -27,7 +27,7 @@ The repo at the end of activity 2
 ## Activity 3
 
 
-![website](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/5.png "")
+![website](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/4.png "")
 
 Website after replacing the color theme
 
