@@ -34,3 +34,14 @@ Website after replacing the color theme
 ![Image of the repo](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/5.png "")
 
 The repo at the end of activity 3
+
+## Activity 4
+
+![website](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/6.png "")
+
+Place Travelled section
+
+![Image of the repo](https://raw.githubusercontent.com/stardust-s/stardust-s.github.io/main/screenshots/7.png "")
+
+The repo at the end of activity 4
+
